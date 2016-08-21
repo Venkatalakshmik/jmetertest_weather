@@ -61,6 +61,17 @@
 
 
 	</server>
+	<server>
+
+<id>api.enterprise.apigee.com</id>
+
+<configuration>
+
+<timeout>10000</timeout> <!-- 5 seconds -->
+
+</configuration>
+
+</server>
 </servers>
 
 
